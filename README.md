@@ -1,1 +1,1 @@
-# VendingSolution-master
+# VendingAvtomat
